@@ -1,7 +1,7 @@
 ## Hi there 👋
 [![Titas#5726](https://img.shields.io/badge/%20-Titas%235726-black?color=7289DA&labelColor=2C2F33&logo=discord&logoColor=ffffff)](https://discord.com)<br>
 Welcome to my profile 🤗<br>
-My name is Titas. A 18 years old programmer that still doesn't know which direction to go.
+My name is Titas. A 19 years old programmer that still doesn't know which direction to go.
 
 - 🤓 I’m currently working on working more on Github rather than private repositories in private servers.
 - 🌱 I’m currently learning web frameworks like `Express, Laravel, Angular and React`.
